@@ -1,2 +1,2 @@
-# Laporan-Praktikum-Smt3
+# Laporan-Praktikum1
 Latihan 1
