@@ -1,5 +1,10 @@
 # Laporan-Praktikum1
 # Latihan 1
+# Nama          : Imam Solehudin
+# Nim           : 312110290
+# Kelas         : TI.21.C.1
+# Mata Kuliah   : Pemrograman Orientasi Objek
+
 
 # KODE PROGRAM JAVA
 1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
