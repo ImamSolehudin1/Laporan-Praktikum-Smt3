@@ -2,12 +2,26 @@
 # Latihan 1
 
 # KODE PROGRAM JAVA
-Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
+1. Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
 
-1. Dalam mendeklarasikan clas dengan atribut nama, jenis kelamin dan umur kita memerlukan type data String dan integer. berikut programnya :
-![Gambar](Screenshot/deklarasi.jpg)
-![Gambar](Screenshot/objek.jpg)
-![Gambar](Screenshot/atribut.jpg)
-![Gambar](Screenshot/program.jpg)
-![Gambar](Screenshot/Output.jpg)
+    - Dalam mendeklarasikan clas dengan atribut nama, jenis kelamin dan umur kita memerlukan type data String dan integer. berikut programnya :
+    ![Gambar](Screenshot/deklarasi.jpg)
+
+2. Buat dua buah objek dari class Person bernama Anton dan Riko
+
+    - Selanjutnya kita membuat 2 buah objek dalam class Person, objeknya yaitu Saya dn Dia. berikut programnya :
+
+    ![Gambar](Screenshot/objek.jpg)
+
+    - Setelah membuat objek lalu kita membuat atribut dalam objek. Atributnya yaitu nama, jenis kelamin dan umur untuk nama dan jenis kelamin kita menggunakan type data string dan umur type data integer. breikut programnya :
+
+    ![Gambar](Screenshot/atribut.jpg)
+
+    - Berikut merupakan program keseluruhannya.
+
+    ![Gambar](Screenshot/program.jpg)
+
+    - Ini hasil dari membuat 2 buah objek dalam class person.
+
+    ![Gambar](Screenshot/Output.jpg)
 
