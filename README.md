@@ -9,5 +9,5 @@ Mendeklarasikan class Person, dengan atribut Nama, JenisKelamin, Umur
 ![Gambar](Screenshot/objek.jpg)
 ![Gambar](Screenshot/atribut.jpg)
 ![Gambar](Screenshot/program.jpg)
-![Gambar](Screenshot/output.jpg)
+![Gambar](Screenshot/Output.jpg)
 
